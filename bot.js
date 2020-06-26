@@ -16,8 +16,5 @@ client.registry.registerGroups([
 
 client.on('ready', () => {
     console.log("Bot has logged in.");
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> bb6fd5292ddd5914dfc01dd8943f57fd5505aa93
+
