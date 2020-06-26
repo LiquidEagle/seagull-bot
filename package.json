@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/LiquidEagle/seagull-bot/issues"
   },
-  "homepage": "https://github.com/LiquidEagle/seagull-bot#readme"
+  "homepage": "https://github.com/LiquidEagle/seagull-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "node-opus": "^0.3.2",
+    "ytdl-core": "^0.29.7"
 }
