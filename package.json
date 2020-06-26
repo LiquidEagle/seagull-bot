@@ -5,7 +5,11 @@
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "start": "node bot.js"
+=======
+	"start": "node bot.js"
+>>>>>>> dd6f0dc419517eeeb025d82c8382865253a35a6b
   },
   "repository": {
     "type": "git",
@@ -19,7 +23,11 @@
   },
   "homepage": "https://github.com/LiquidEagle/seagull-bot#readme",
   "dependencies": {
+<<<<<<< HEAD
     "discord.js": "^11.6.4",
+=======
+    "discord.js": "^11.5.1",
+>>>>>>> dd6f0dc419517eeeb025d82c8382865253a35a6b
     "discord.js-commando": "^0.10.0",
     "node-opus": "^0.3.2",
     "ytdl-core": "^0.29.7"
