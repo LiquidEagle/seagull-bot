@@ -23,4 +23,5 @@
     "discord.js-commando": "^0.10.0",
     "node-opus": "^0.3.2",
     "ytdl-core": "^0.29.7"
+  }
 }
